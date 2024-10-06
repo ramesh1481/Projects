@@ -1,8 +1,0 @@
-# This requirements text file usually contains the dependencies that has checked before developing the program 
-# You will require 
-- Python version 3.xx 
-- SQLite3 extensions
-- Pandas
-- matplotlib 
-
-# That is all you require for this project. Hope you find it usefull !!!
